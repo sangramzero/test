@@ -5,4 +5,15 @@ git log
 git status
 git add "filename" / git add . 
 git commit -m "commit info"
+
+git remote add origin https://github.com/surajcloudceo/test.git
+or
+git remote set-url origin https://github.com/surajcloudceo/test.git
+
 git push origin branch
+
+or
+-----------------------------------------------------------
+root@localhost:~/gitbox/gittuto# git push origin master --force
+Username for 'https://github.com': surajcloudceo
+Password for 'https://surajcloudceo@github.com':
