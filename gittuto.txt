@@ -11,7 +11,7 @@ or
 git remote set-url origin https://github.com/surajcloudceo/test.git
 
 git push origin branch
-
+git pull origin master
 or
 -----------------------------------------------------------
 root@localhost:~/gitbox/gittuto# git push origin master --force
